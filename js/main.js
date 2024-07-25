@@ -5,9 +5,9 @@ document.addEventListener("DOMContentLoaded", () => {
     div_formulario.className = "div_formularios";
     let formularios = [
         {nombre: "login", link: "componentes/login/login.html"},
-        {nombre: "login", link: "#"},
-        {nombre: "login", link: "#"},
-        {nombre: "login", link: "#"},
+        {nombre: "formulario2", link: "#"},
+        {nombre: "formulario3", link: "#"},
+        {nombre: "formulario4", link: "#"},
     ];
 
     formularios.forEach(element => {
